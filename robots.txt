@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kcd336.github.io/dhiman-advocates/sitemap.xml
